@@ -24,7 +24,7 @@ public class java {
         } else if (nilai <50){
             System.out.print("kategori nilai : E" );
         } else {
-            System.out.print("karakter bukan angka" );
+            System.out.print("ini diubah" );
         }
 
         
